@@ -1,7 +1,6 @@
 import Axios from "../../Services/axios";
 import React, { useEffect, useState } from "react";
 import requests from "../../Services/request";
-import { base_url } from "../Row";
 import "./Header.scss";
 
 const truncate = (str, n) => {
