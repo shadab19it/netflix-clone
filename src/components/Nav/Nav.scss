@@ -1,0 +1,23 @@
+.nav_container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  z-index: 100;
+  padding: 15px 30px;
+  transition: all 0.4s ease-in;
+
+  .brand_logo {
+    width: 120px;
+    height: 30px;
+  }
+  .user_pic {
+    display: none;
+  }
+}
+
+.nav_black {
+  background: #111;
+}
