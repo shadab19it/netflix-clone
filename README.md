@@ -2,6 +2,8 @@
 
 This project is a Netflix clone built with ReactJS, showcasing a simplified version of the popular streaming platform's user interface.
 
+![Netflix Clone Thumbnail](https://ik.imagekit.io/a1mteszjb/my-project/netflix-clone.jpg?updatedAt=1703931076187)
+
 ## Table of Contents
 
 - [Features](#features)
