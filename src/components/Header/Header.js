@@ -15,7 +15,6 @@ const Header = () => {
     };
     fetchData();
   }, []);
-  console.log(movie);
   return (
     <header style={{ background: `url("https://image.tmdb.org/t/p/original/${movie?.backdrop_path}")` }} className='banner'>
       <div className='banner_content'>
