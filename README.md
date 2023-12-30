@@ -10,8 +10,6 @@ This project is a Netflix clone built with ReactJS, showcasing a simplified vers
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
